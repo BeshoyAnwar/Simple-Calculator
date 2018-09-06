@@ -4,7 +4,7 @@
  *
  * File Name: calculator.h
  *
- * Description: Source file for simple calculator deal with small integers(-128:127) and +,-,*,/ operations
+ * Description: Source file for simple calculator deal with small integers(-128:127) and +,-,*,/ operators
  *
  **********************************************************************************************************/
 
