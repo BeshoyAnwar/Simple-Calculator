@@ -71,7 +71,7 @@ int main(void)
 
 			else{
 				expression[i]=key;
-				LCD_displayCharacter(key); /* display the pressed keypad switch */
+				LCD_displayCharacter(key);
 			}
 
 			expression[i+1]='\0';
